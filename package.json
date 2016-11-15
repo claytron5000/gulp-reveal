@@ -27,8 +27,11 @@
     "html"
   ],
   "dependencies": {
+    "font-awesome": "^4.7.0",
     "gulp-util": "~2.2.0",
+    "jquery": "^3.1.1",
     "mustache": "^0.8.2",
+    "reveal": "0.0.4",
     "standard": "^3.2.1",
     "through2": "~0.4.0"
   },
